@@ -1,0 +1,32 @@
+/* link */
+
+div a {
+    display: inline-block;
+    margin: 100px;
+}
+a {
+    text-decoration: none;
+    color: lightblue;
+}
+a:hover {
+    color: rgb(122, 198, 223);
+}
+a:active {
+    color: rgb(2, 72, 95);
+}
+
+/* button */
+
+div button {
+    margin: 100px;
+
+}
+button {
+    color: lightgrey;
+}
+button:hover {
+    color: grey;
+}
+button:active {
+    color: black;
+}
